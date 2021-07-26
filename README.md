@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mateo</h1>
 <h3 align="center">A passionate frontend developer working in React</h3>
 
-- 🔭 I’m currently working on **My portfolio**
-
 - 🌱 I’m currently learning **React.JS**
 
 - 📫 How to reach me **delongamateo@gmail.com**
